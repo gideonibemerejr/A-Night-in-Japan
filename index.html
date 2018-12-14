@@ -1,0 +1,16 @@
+---
+title: Gideon Was here
+layout: default
+---
+
+<h1>{{ site.title }}</h1>
+
+<div class="blog-posts">
+    {% for post in site.posts %}
+        <a href="{{post.url}}">
+            <h2>{{post.title}}</h2>
+            <p>{{post.excerpt}}</p>
+            <p class="read-more">Read More <img src="/assets/images/chevron.svg"></p>
+        </a>
+    {% endfor %}
+</div>

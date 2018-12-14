@@ -1,0 +1,31 @@
+---
+title: A Night in Japan
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+email: g@gideonibemerejr.com
+description: A blog about Japan
+baseurl: 
+url: 
+twitter_username: gideonibemerejr
+github_username: gideonibemerejr
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
