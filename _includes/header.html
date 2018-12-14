@@ -4,7 +4,11 @@
     </a>
 
     <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
+        <a href="/" {% if page.url == "/" %} class="selected" {% endif %}>
+            Home
+        </a>
+        <a href="/about/" {% if page.url == "/about/" %} class="selected" {% endif %}>
+            About
+        </a>
     </nav>
 </header>
