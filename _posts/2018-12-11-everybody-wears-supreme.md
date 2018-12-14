@@ -1,7 +1,10 @@
 ---
-title:  Everybody wears Supreme
-excerpt: One of the five supreme stores is located in omotensando in harajuku, Tokyo, and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
+title: Everybody wears Supreme
+date: 2018-12-11 00:00:00 Z
+excerpt: One of the five supreme stores is located in omotensando in harajuku, Tokyo,
+  and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.

@@ -1,6 +1,7 @@
 ---
-layout: default
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
+
 About Tiffy
