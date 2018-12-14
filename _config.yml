@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: g@gideonibemerejr.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: gideonibemerejr
 github_username: gideonibemerejr
 markdown: kramdown
